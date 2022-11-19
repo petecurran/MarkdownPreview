@@ -1,0 +1,38 @@
+body{
+  background-color:#3D5A80;
+}
+
+.htmlInput{
+  width:95%;
+  font-size:14px;
+}
+
+#editor{
+  width:100%;
+  height:100vh;
+  margin:auto;
+  background-color:white;
+  padding:20px;
+}
+
+textarea{
+  border:none;
+  width:100%;
+}
+
+.htmlOutput{
+  width:90%;
+  font-size:14px;
+}
+
+#preview img{
+  max-width:100%;
+}
+
+a {
+  color:black;
+}
+
+a.visited{
+  color:black;
+}
