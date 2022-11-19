@@ -1,4 +1,4 @@
-# FCC Markdown Previewer
+Challenge two from FreeCodeCamp's front end development certification.
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Felster/pen/LYreVbe](https://codepen.io/Felster/pen/LYreVbe).
+See it live on https://codepen.io/Felster/pen/LYreVbe
 
